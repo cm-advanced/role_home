@@ -1,0 +1,11 @@
+name = CMA Role Home
+description = A very simple module that allows you to set a home page page for each role
+
+package = Community Media Advanced
+version = 7.x-3.0
+project = "role_home"
+project_status_url = https://github.com/cm-advanced/role_home
+
+core = 7.x
+
+
